@@ -1,0 +1,13 @@
+# Original Google Sites image URLs (migration inventory)
+
+Source: https://www.quantum-creation.jp/
+
+These URLs were embedded on the original Google Sites site. They were tested for direct download and external embedding in October 2026 but could not be retrieved or displayed reliably. The original image files have NOT been archived here. Retained only as references for a future migration.
+
+1. https://lh3.googleusercontent.com/sitesv/AG8ngQXVZ4HE-CcuypS9dP5gP0vff0zN_ZPoMF2QuhBeOq21LqYRyL3_c8fCbTrzlqlsF8n127LUf1vb_TCRJ_WrYfQ10rNEi7oApR4ROQx2IMKPrC0_Y8qHXDuAPAjxOpZP011UtHD4GtDgwxLrDxhyMJgUaPTz-4dpqPq4KHSr8VexwrCh2OABjAMnPTiKOfPyR_pDkih3gBm2Y3PhZ9fkDShp2f9yeqkodM7P5Q9g=w1280
+
+2. https://lh3.googleusercontent.com/sitesv/AG8ngQXL5bEwwAQ6o15mZ7NLT_9PWdbskYs8WM6Xmiw2HperGyfA2HGtASyFXM_y5P2UZcqn-osIruYThLbdRzOu3Z-uG-oeUXR_Ew8FMV-IQavpfotfD2dIiDPm-ljMZUX75a9X4xDbBbgtOCkRGyQj39ZE2tvzmmwJKS-yE093m137Y0nOARtygW5n70zKJCT561zT7CNgowFZI_NDrfpcH161E3DuLgN7P_LuFkeP=w1280
+
+3. https://lh3.googleusercontent.com/sitesv/AG8ngQVZUkKP6CiFo-88vSJ2gqAb10Fb7g6xAeLqxOWM-qTXx28s_QU7eNzoisEhCtcm5WhDHS-9zZPFKA13eOQm9yTVDNR14pwhaoBszwDnsJ4cu6bvoU_ZCGZ6xeZBxYrzs4L3sT2yVYkmG8aYRq4vovk7GQgXXUs6Pt9SCSAUxSFu-NkUv5OL8SUL9mfYkW8T8WdUjtBOu3CHoAVEbSnZqX36nTA8BHIEDsin2tR5=w1280
+
+4. https://lh3.googleusercontent.com/sitesv/AG8ngQUooOa7aIfHgrGEk7bkPZWPed4MNCaLfxdW6PesRUnN_3_-eSKS1geTYBsI_6196vp5C-fSlB2_2REnlNA6qTk7WDbkoNeN2-h8hB88AQ26P4ST1d2-4R2bV8d8kEf85YC6Kuo4J6JjyJwQ6C73ls4nme4E8WVXdBq-DGBSJmCVkQPVhqdi8ERtkxWPsMlE42fjL_g4EgdJuicOMEW5c7QU1jY3KUsbZZxqOhvd=w1280
